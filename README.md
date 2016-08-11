@@ -9,6 +9,8 @@ npm install
 ```
 npm run dev
 ```
+App is running at `http://localhost:8088`
+
 ## How it works
 Test buttons change name of panel. Buttons appened with sign + increase depth, which means that this can be undone (go upper, until test 0 or default);
 Set info button change info property, but this `SET_INFO` action type is filtered out for undo.
