@@ -1,9 +1,12 @@
 # redux-undo-problem-example
 
+There are some unnecessary parts to show the problem, but it is left from a production app to be connected.
+
 ## Installation
 ```
 npm install
 ```
+
 
 ## Run demo app
 ```
